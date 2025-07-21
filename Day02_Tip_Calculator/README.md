@@ -16,7 +16,7 @@ Create a **command-line tip calculator** that:
 ---
 
 ## 🧪 Sample Output
-![Tip Calculator Output](images/tip_calculator.png)
+![Tip Calculator Output](images/tip_calcualtor.png)
 
 ---
 
