@@ -15,3 +15,21 @@ A simple Python program that creates a treasure map on a 3x3 grid where users ca
 
 ## 💻 Code Example
 [Treasure Map Program Screenshot](images/Treasure_map.png)
+
+# 🪨 📄 ✂️ Rock Paper Scissors - Day 4 of #100DaysOfPython
+
+![Game Screenshot](./images/screenshot.png)
+
+A classic Rock Paper Scissors game implemented in Python with simple AI opponent.
+
+## Features
+- **Player vs Computer** gameplay
+- **Randomized AI** choices
+- **Score tracking** (Wins/Losses/Ties)
+- **Input validation**
+- **ASCII art** for visual feedback
+
+## 🎮 How to Play
+1. Run the script:
+   ```bash
+   python rock_paper_scissors.py
